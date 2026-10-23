@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: lightblue;
+}
+main{
+    padding: 50px 10%;
+}
